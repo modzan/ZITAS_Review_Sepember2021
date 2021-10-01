@@ -5,3 +5,4 @@ We aim to study and review the existing Tax systems in place
 We will try to analyze all the taxes applicable laws and use them as the source of review for this purpose
 it seems that the best way will be to do a versioning control to approach this review purpose
 
+The editor made changes here
